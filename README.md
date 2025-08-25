@@ -4,7 +4,7 @@ This repository will be comprised of 54 projects total. Using a standard deck of
 [DISCLAIMER] Some of these projects may not come to fruition. I will do my best to work on them and complete the tasks at hand.
 
 Aces (Difficulty: Simple)
-- [ ] Ace of Spades (♠️): Simple Calculator
+- [x] Ace of Spades (♠️): Simple Calculator
 - [ ] Ace of Clubs (♣️): Password Strength Checker
 - [ ] Ace of Hearts (♥️): Text-Based Adventure Game
 - [ ] Ace of Diamonds (♦️): Unit Converter
