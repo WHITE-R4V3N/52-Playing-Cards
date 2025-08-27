@@ -1,8 +1,29 @@
-# 52-Playing-Cards
-This repository will be comprised of 54 projects total. Using a standard deck of 52 cards projects range in difficulty. Ace being the lowest is the easiest and Kings being the hardest. There are two jokers or maverick cards that serve as final projects for the repository.
+<br />
+<div align="center">
+    <a href="#">
+        <img src="images/deck-of-cards.png" alt="52 Cards Image" width="300" height="300">
+    </a>
+    <h3 align="center">52 Playing Cards</h3>
+</div>
+
+<!-- Table of Contents -->
+<details>
+    <summary>Table of Contents</summary>
+    <ol>
+        <li><a href="#about-the-project">About the Project</li>
+        <li><a href="#cards">Cards</a></li>
+        <li><a href="#acknowledgements">Acknowledgements</a></li>
+    </ol>
+</details>
+
+<!-- About the project -->
+## About The Project
+This repository will be comprised of 54 projects total. Using a standard deck of 52 cards projects range in difficulty. Ace being the lowest is the easiest and Kings being the hardest. There are two jokers or maverick cards that serve as final projects for the repository. No one language will be used to complete these projects.
 
 [DISCLAIMER] Some of these projects may not come to fruition. I will do my best to work on them and complete the tasks at hand.
 
+<!-- Cards -->
+## Cards
 Aces (Difficulty: Simple)
 - [x] Ace of Spades (♠️): Simple Calculator
 - [ ] Ace of Clubs (♣️): Password Strength Checker
@@ -84,3 +105,8 @@ Kings (Difficulty: Ultimate Capstone)
 Joker & Maverick (Difficulty: Themed Capstone Projects)
 - [ ] Joker (The AI & Cyber Project): AI-Powered Digital Forensics Platform
 - [ ] Maverick (The Social & Web-3.0 Project): Decentralized Creator Economy Platform
+
+<!-- Acknowledgements -->
+## Acknowledgements
+
+This section is reserved for any resources I use while completing these projects.
